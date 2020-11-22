@@ -5,8 +5,13 @@ name = "pypi"
 
 [packages]
 pillow = "*"
+keyboard = "*"
+pytesseract = "*"
+opencv-python = "*"
+numpy = "==1.19.3"
 
 [dev-packages]
+autopep8 = "*"
 
 [requires]
 python_version = "3.9"
