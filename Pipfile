@@ -9,6 +9,10 @@ keyboard = "*"
 pytesseract = "*"
 opencv-python = "*"
 numpy = "==1.19.3"
+pandas = "*"
+mysql-connector-python = "*"
+matplotlib = "*"
+pyperclip = "*"
 
 [dev-packages]
 autopep8 = "*"
